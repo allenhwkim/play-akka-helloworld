@@ -10,6 +10,7 @@ $ git clone https://github.com/allenhwkim/play-akka-helloworld.git
 $ cd play-akka-helloworld
 $ sbt
 [helloworld] $ run
+$ open -a "Google Chrome" http://localhost:9000/hello
 ```
 
 conf/routes
